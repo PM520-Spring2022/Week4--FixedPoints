@@ -1,3 +1,3 @@
-# Week3--FixedPoints9
+# Week4--FixedPoints9
 
 This repo contains the code for finding fixed points discussed in class.
